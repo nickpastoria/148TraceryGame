@@ -78,7 +78,14 @@ window.onload = function() {
     "npc": ["You come across #firstName# #lastName#. A #npcProfession#, who appears to be #npcDisposition#."],
     "artifact": ["You find #artifacts#, which causes you to be overwhelmed by #flaw#."],
     "origin": ["In #location#, there has been #event#. A #creature# is rumored to be hiding"],
-    "hideout": ["the old church", "the crypt in the graveyard", "the cellar of the town hall", "the lighthouse", "the ruins outside of town"],
+    "hideout": [
+    "the old church", 
+    "the crypt in the graveyard", 
+    "the cellar of the town hall", 
+    "the lighthouse", 
+    "the ruins outside of town",
+    "the basement of #suspect#'s house",
+    "hiding in the darkness of the old factories"],
     "summonMethod": ["a forbidden ritual", "an ancient curse", "a dark pact", "a powerful artifact", "a celestial alignment"],
     "suspect": ["the town mayor", "the lighthouse keeper", "the local librarian", "the mysterious stranger", "the eccentric artist"],
     "hiddenTruth": ["The creature's hideout is in #hideout#. It was summoned by #summonMethod#. The one who summoned it is #suspect#."]
