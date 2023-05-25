@@ -1,0 +1,35 @@
+body {
+    background-color: #276b57;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #prompt,
+  #artifactFlaw {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #fff;
+    background-color: #204f41;
+  }
+  
+  button {
+    margin: 20px;
+    padding: 20px;
+    background-color: #204f41;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  footer {
+    margin: 20px;
+  }
+  
+  a {
+    color: #fff;
+  }
+  
