@@ -5,6 +5,7 @@ This project is a random Lovecraftian Mystery Generator.It uses [Tracery](https:
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
+The rules for playing it as a game will be located on [Google Docs](https://docs.google.com/document/d/1dnODg9qQO1BOPVUgXJ6qKQ7jAm_vDei32QQfmam_cos/edit?usp=sharing)
 
 ## Usage
 
