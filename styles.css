@@ -9,7 +9,9 @@ body {
   }
   
   #prompt,
-  #artifactFlaw {
+  #artifactFlaw,
+  #npcPrompt,
+  #truthPrompt {
     margin: 20px;
     padding: 20px;
     border: 2px solid #fff;

@@ -1,25 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="lib/tracery.min.js"></script>
-    <link rel="stylesheet" href="styles.css">
-    <title>My Game</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="/lib/tracery.min.js"></script>
+  <meta charset="UTF-8">
+  <title>Writing Prompt Generator</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Your Lovecraftian Adventure Begins...</h1>
-    <div id="prompt"></div>
-    <button id="promptButton">Generate New Prompt</button>
+  <h1>Writing Prompt Generator</h1>
+  <div id="promptSection">
+    <h2>Prompt</h2>
+    <p id="prompt">Click the button to generate a prompt.</p>
+    <button id="promptButton">Generate Prompt</button>
+  </div>
 
-    <div id="artifactFlaw"></div>
-    <button id="artifactFlawButton">Generate New Artifact and Flaw</button>
+  <div id="artifactFlawSection">
+    <h2>Artifact and Flaw</h2>
+    <p id="artifactFlaw">Click the button to generate an artifact and flaw.</p>
+    <button id="artifactFlawButton">Generate Artifact and Flaw</button>
+  </div>
 
-    <footer style="margin: 20px;">
-        <a href="link-to-your-game-rules">Rules of the Game</a>
-        <br>
-        <a href="link-to-your-source-code">Source Code</a>
-    </footer>
-    <script src="js/grammar.js"></script>
-    <script defer src="js/game.js"></script>
+  <div id="npcSection">
+    <h2>NPC Prompt</h2>
+    <p id="npcPrompt">Click the button to generate an NPC prompt.</p>
+    <button id="npcButton">Generate NPC</button>
+  </div>
+  <div id="truthSection">
+    <h2>Hidden Truth (For Game Master's Eyes Only)</h2>
+    <p id="truthPrompt">Click the button to generate the hidden truth.</p>
+    <button id="truthButton">Generate Hidden Truth</button>
+  </div>  
+  <footer>
+    <p>Created by [your name] for [your course/assignment].</p>
+    <p>View the source code on <a href="https://github.com/[your-username]/writing-prompt-generator">GitHub</a>.</p>
+  </footer>
+  <script src="/js/game.js"></script>
 </body>
 </html>
