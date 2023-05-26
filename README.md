@@ -25,4 +25,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 ## Acknowledgments
 
-- Thank you to [OpenAI](https://openai.com/) for the assistance in generating Lovecraftian names and creating the Tracery grammar.
+- Thank you to [OpenAI](https://openai.com/) for the assistance in generating Lovecraftian names and assistance with filling out the Tracery grammar.
