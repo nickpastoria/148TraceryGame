@@ -1,6 +1,6 @@
 # Lovecraftian Mystery Generator
 
-This project is a random Lovecraftian Mystery Generator.It uses [Tracery](https://www.tracery.io/) to generate a variety of story prompts, artifacts, and non-player characters (NPCs), as well as hidden information for game masters. The prompts are displayed on a themed webpage, which you can style to fit your own preferences.
+This project is a random Lovecraftian Mystery Generator. It uses [Tracery](https://www.tracery.io/) to generate a variety of story prompts, artifacts, and non-player characters (NPCs), as well as hidden information for game masters.
 
 ## Getting Started
 
