@@ -14,14 +14,6 @@ The project is currently being hosted on github pages. [Here](https://nickpastor
 
 - [Tracery](https://www.tracery.io/) - A text-expansion library.
 
-## Contributing
-
-Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
 ## Acknowledgments
 
 - Thank you to [OpenAI](https://openai.com/) for the assistance in generating Lovecraftian names and assistance with filling out the Tracery grammar.
